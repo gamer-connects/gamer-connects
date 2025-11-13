@@ -14,25 +14,38 @@ The landing page will include:
   - Log in
 - A link that directs users to this page for more information
 
-The landing page is expected to look like:
-
-![](images/landing_page_mockup.jpg)
-
-### Home Page
+### Home/Dashboard Page
 
 The home page will include:
 
 - A quick overview of the available events
 - A navbar to access other pages on the website
 
-The home page is expected to look like
-
 ### Profile Page
 
-After clicking the profile button in the navbar, users will be directed to their own personalized profile. Users may customize their profile and add relevant game tags/interests.
+The profile page will include:
 
-### Player Search Page
+- Customize display name and profile picture
+- Add user biography
+- List game interests and tags
+- Add game suggestion survey
+- Follower and Following counts
 
-The player search page will allow users to not only search by name, but also to receive a quick overview of other users with relevant filters/tags
+### User Search Page
+
+The user search page will include:
+
+- Filter by games, interests, and tags
+- Autocomplete based on suggested matches
+- Show recommended users
+
+### Admin Page
+
+The admin page will include:
+
+- Navigate to admin page @ navbar
+- Manage Users
+- Review flagged content/messages
+- Add user suggested games
 
 
