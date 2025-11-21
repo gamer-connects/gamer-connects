@@ -56,6 +56,7 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 ### Risk Management Worksheet
 
 <img width="429" height="290" alt="Screenshot 2025-11-20 at 2 45 15 PM" src="https://github.com/user-attachments/assets/bcf31318-0667-472e-aab9-53141ee36141" />
+
 ## Community Feedback
 *Coming soon — will include user impressions, feature requests, and comments gathered from early testers.*
 
