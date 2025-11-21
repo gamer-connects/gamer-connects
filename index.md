@@ -20,8 +20,8 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 
 - **Team Contract:** [View Team Contract](https://docs.google.com/document/d/1T8ZwthSHFkZXGYaHPbhu9UNYf5ETw5f2L7wtiD0ZBfA/edit?tab=t.0)
 - **GitHub Organization:** [gamer-connects](https://github.com/gamer-connects)
-- **M1 Project Board:** [Milestone 1](https://github.com/orgs/gamer-connects/projects/1)
-- **M2 Project Board:** [Milestone 2](https://github.com/orgs/gamer-connects/projects/2)
+- **M1 Project Board:** [Milestone 1](https://github.com/orgs/gamer-connects/projects/1/views/3)
+- **M2 Project Board:** [Milestone 2](https://github.com/orgs/gamer-connects/projects/2/views/3))
 
 ## User Guide
 
@@ -56,3 +56,11 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 ## Risk Management Worksheet
 
 <img width="429" height="290" alt="Screenshot 2025-11-20 at 2 45 15 PM" src="https://github.com/user-attachments/assets/bcf31318-0667-472e-aab9-53141ee36141" />
+
+### Team
+
+-	Jenebryan Mercado
+-	Andrew Bushong
+-	Richard Masuda
+-	Nalani Klopfenstein
+-	Jiaxing Feng
