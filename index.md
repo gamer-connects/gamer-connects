@@ -56,6 +56,98 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 ### Risk Management Worksheet
 
 <img width="429" height="290" alt="Screenshot 2025-11-20 at 2 45 15 PM" src="https://github.com/user-attachments/assets/bcf31318-0667-472e-aab9-53141ee36141" />
+## Community Feedback
+*Coming soon — will include user impressions, feature requests, and comments gathered from early testers.*
+
+---
+
+## Developer Guide
+
+## Installation
+
+**Prerequisites:**
+* Node.js (v18 or higher)
+* npm or yarn
+* Git
+
+**Steps:**
+
+1. Clone the repository:
+```bash
+   git clone https://github.com/gamer-connects/Project-UHConnect.git
+```
+
+2. Navigate into the project directory:
+```bash
+   cd Project-UHConnect
+```
+
+3. Install dependencies:
+```bash
+   npm install
+```
+
+4. (Optional) Create an environment file if your project requires variables:
+```bash
+   touch .env.local
+```
+   
+   Add values such as:
+```
+   NEXT_PUBLIC_API_URL=<your-api-url>
+   NEXTAUTH_SECRET=<your-secret>
+   UHCDB_POSTGRES_PRISMA_URL=<your-postgres-connection-string>
+   UHCDB_POSTGRES_URL_NON_POOLING=<your-direct-postgres-url>
+```
+
+5. Initialize the database:
+```bash
+   npx prisma migrate dev
+```
+
+6. Start the development server:
+```bash
+   npm run dev
+```
+
+7. Open the application in your browser:
+```
+   http://localhost:3000
+```
+
+## Deployment
+
+The application is automatically deployed through Vercel.
+
+**To deploy changes:**
+
+1. Commit and push your changes to the main branch:
+```bash
+   git add .
+   git commit -m "ready for deployment"
+   git push origin main
+```
+
+2. Visit your project on the [Vercel dashboard](https://vercel.com) to confirm the deployment.
+
+**First-time deployment setup:**
+
+1. Go to [https://vercel.com](https://vercel.com)
+2. Click **Add New Project**
+3. Select the `Project-UHConnect` repository
+4. Set any required environment variables:
+   * `UHCDB_POSTGRES_PRISMA_URL`
+   * `UHCDB_POSTGRES_URL_NON_POOLING`
+   * `NEXTAUTH_SECRET`
+   * `NEXTAUTH_URL`
+5. Click **Deploy**
+
+After deployment, your live site will be available at:
+```
+https://project-uh-connect-wbxh.vercel.app
+```
+
+You can monitor deployment logs under the **Deployments** section in Vercel.
 
 ## Team
 
