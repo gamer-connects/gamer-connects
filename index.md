@@ -50,8 +50,8 @@ The admin page will include:
 
 ### Deployment
 
--Live site: https://uh-connect.vercel.app/
--Repo site: https://github.com/gamer-connects/Project-UHConnect.git
+- Live site: https://uh-connect.vercel.app/
+- Repo site: https://github.com/gamer-connects/Project-UHConnect.git
 
 ### Team Contract
 
