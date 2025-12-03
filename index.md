@@ -14,7 +14,7 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 
 ### Deployment
 
-**Live Application:** [https://project-uh-connect-wbxh.vercel.app](https://project-uh-connect-wbxh.vercel.app)
+**Live Application:** [https://uh-connect.vercel.app/](https://uh-connect.vercel.app/)
 
 [![ci-nextjs-application-template](https://github.com/gamer-connects/Project-UHConnect/actions/workflows/ci.yml/badge.svg)](https://github.com/gamer-connects/Project-UHConnect/actions/workflows/ci.yml)
 
