@@ -22,33 +22,36 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 - **GitHub Organization:** [gamer-connects](https://github.com/gamer-connects)
 - **M1 Project Board:** [Milestone 1](https://github.com/orgs/gamer-connects/projects/1/views/3)
 - **M2 Project Board:** [Milestone 2](https://github.com/orgs/gamer-connects/projects/2/views/3)
-- **M3 Project Board:** [Milestone 3](https://github.com/orgs/gamer-connects/projects/4/views/1)
+- **M3 Project Board:** [Milestone 3](https://github.com/orgs/gamer-connects/projects/6)
 - **Test Cases:** [View Test Cases](https://docs.google.com/document/d/1Q7q8-GTRSqjTLsZUTha8je2IafpYSgQ_MWMlM6Z9suw/edit?usp=sharing)
 ## User Guide
 
 ### Landing Page
 
-![](images/landing-page.png)
+![](images/landingpage.png)
 
 ### Sign Up/Sign In
 
-![](images/signup-page.png)
-![](images/signin-page.png)
+![](images/signuppage.png)
+![](images/loginpage.png)
 
 ### User Profile Page
 
-![](images/profiles-page.png)
+![](images/profilespage.png)
 
 ### Home Page
 
-![](images/home_mockup.png)
+![](images/homepage.png)
 
 ### User Search Page
 
-![](images/user-search-page.png)
+![](images/usersearchpage.png)
 
 ### Edit Profile Page
 ![](images/Edit_profile.png)
+
+### Admin Page
+![](images/adminpage.png)
 
 ### Use Case Diagrams
 
