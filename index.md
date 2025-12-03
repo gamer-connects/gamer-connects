@@ -43,6 +43,9 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 
 ![](images/homepage.png)
 
+### Game Page
+![](images/gamepage.png)
+
 ### User Search Page
 
 ![](images/usersearchpage.png)
